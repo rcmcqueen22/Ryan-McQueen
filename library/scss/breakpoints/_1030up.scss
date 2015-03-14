@@ -1,0 +1,19 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Desktop Stylsheet
+
+This is the desktop size. It's larger than an iPad so it will only
+be seen on the Desktop.
+
+******************************************************************/
+
+.wrap {
+  width: 1140px;
+}
+
+.home #content #main .entry-content h1 {
+	font-size: 3.5em;
+	line-height: 1.75em;	
+}
